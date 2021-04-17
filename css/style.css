@@ -1,0 +1,54 @@
+.bg-top{
+    background-color: #FFFBF0;
+}
+.buy-button{
+    background-color: #A4BD47;
+    border-radius: 0.5em;
+    width: 120px;
+}
+h1{
+    font-family: 'Bebas Neue';
+    font-size: 90px;
+    color: #363958;
+}
+h2{
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    color: #363958;
+}
+h3{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    color: #363958;
+}
+h4{
+    font-family: 'Bebas Neue';
+    font-size: 35px;
+    color: #FABE4B;
+}
+h5{
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+    color: #363958;
+}
+.name-highlight{
+    color: #FABE4B;
+}
+.categories img{
+    width: 180px;
+
+}
+.penguin-card{
+    border: 0;
+}
+.card-box{
+    border-radius: 1em;
+}
+.thumbnail-box{
+    background-color: rgb(240, 240, 240);
+    border-radius: 1em;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
